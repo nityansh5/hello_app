@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This is an edit to the odiginl README file to understand how it 
+works with git
